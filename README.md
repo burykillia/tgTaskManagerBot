@@ -1,7 +1,6 @@
 # Team Task Manager Telegram Bot
 
 **Telegram-бот для управління командними завданнями**  
-Натхненний реальним досвідом роботи в логістиці (Nova Poshta та Zammler).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
